@@ -8,6 +8,7 @@
 </head>
 <body>
     <h1>Welcome</h1>
+    <?php echo "Hello Guy" ?>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore omnis animi dignissimos quae commodi dolorum temporibus ratione atque necessitatibus nobis voluptatum, recusandae distinctio assumenda labore architecto incidunt, enim dolorem nam.</p>
 </body>
 </html>
