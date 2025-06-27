@@ -26,11 +26,15 @@
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                        Link
+                        Calculators
                     </a>
                     <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" href="#">Action</a></li>
-                        <li><a class="dropdown-item" href="#">Another action</a></li>
+                        <li><a class="dropdown-item" href="Volumeofcylinder.php">Volume of cylinder calculator</a></li>
+                        <li><a class="dropdown-item" href="Volumeofsphere.php">Volume of sphere calculator</a></li>
+                        <li><a class="dropdown-item" href="Lengthofhypotenuse.php">Length of hypotenuse calculator</a></li>
+                        <li><a class="dropdown-item" href="Surfaceofacylinder.php">Surface area of cylinder calculator</a></li>
+                        <li><a class="dropdown-item" href="Quadricequation.php">Quadratic equation solver</a></li>
+                        <li><a class="dropdown-item" href="Areaoftrapezoid.php">Area of trapezoid calculator</a></li>
                         <li>
                             <hr class="dropdown-divider">
                         </li>
@@ -38,7 +42,7 @@
                     </ul>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link disabled" aria-disabled="true">Link</a>
+                    <a class="nav-link disabled" aria-disabled="true"></a>
                 </li>
             </ul>
             <form class="d-flex" role="search">
