@@ -35,10 +35,12 @@
                         <li><a class="dropdown-item" href="Surfaceofacylinder.php">Surface area of cylinder calculator</a></li>
                         <li><a class="dropdown-item" href="Quadricequation.php">Quadratic equation solver</a></li>
                         <li><a class="dropdown-item" href="Areaoftrapezoid.php">Area of trapezoid calculator</a></li>
+                        <li><a class="dropdown-item" href="TSAOAC.php">Total surface area of a cylinder calculator</a></li>
+                        <li><a class="dropdown-item" href="Areaofarightangletriangle.php">Area of a right angle triangle calculator</a></li>
                         <li>
                             <hr class="dropdown-divider">
                         </li>
-                        <li><a class="dropdown-item" href="#">Something else here</a></li>
+                        <li><a class="dropdown-item" href="LSAOAC.php">Lateral surface area of a cylinder calculator</a></li>
                     </ul>
                 </li>
                 <li class="nav-item">
